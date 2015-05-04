@@ -1,6 +1,6 @@
 # OSU Seminar
-**Genomics on the Half Shell: Environmental Epigenetics, Open Science, and the Oyster**
-April 23th, 2015
+**Genomics on the Half Shell: Environmental Epigenetics, Open Science, and the Oyster**      
+May 4th, 2015
 
 ---
 
