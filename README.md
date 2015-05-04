@@ -1,10 +1,11 @@
-# FIU Seminar
-**Does DNA Methylation Facilitate Phenotypic Plasticity in Marine Invertebrates?**
+# OSU Seminar
+**Genomics on the Half Shell: Environmental Epigenetics, Open Science, and the Oyster**
 April 23th, 2015
 
 ---
 
-[![slides](http://eagle.fish.washington.edu/cnidarian/skitch/2015-FIU-Roberts_key_1AE8624C.png)](https://github.com/sr320/talk-fiu-2015/blob/master/2015-FIU-Roberts-SLIDES.pdf)
+[![slides](http://eagle.fish.washington.edu/cnidarian/skitch/2015-OSU-Roberts_key_1AF7AE80.png)](https://github.com/sr320/talk-fiu-2015/blob/master/2015-FIU-Roberts-SLIDES.pdf)
+
 
 ---
 
@@ -17,4 +18,4 @@ April 23th, 2015
 
 
 ---
-[Related Products](https://github.com/sr320/talk-fiu-2015/blob/master/related-products.md)
+[Related Products](https://github.com/sr320/talk-osu-2015/blob/master/related-products.md)
