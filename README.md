@@ -4,7 +4,7 @@ May 4th, 2015
 
 ---
 
-[![slides](http://eagle.fish.washington.edu/cnidarian/skitch/2015-OSU-Roberts_key_1AF7AE80.png)](https://github.com/sr320/talk-fiu-2015/blob/master/2015-FIU-Roberts-SLIDES.pdf)
+![slides](http://eagle.fish.washington.edu/cnidarian/skitch/2015-OSU-Roberts_key_1AF7AE80.png)
 
 
 ---
